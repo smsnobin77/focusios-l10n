@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="About.privateBulletHeader">
         <source>Use it as a private browser:</source>
-        <target>একটি ব্যক্তিগত ব্রাউজার হিসাবে এটিকে ব্যবহার করুন:</target>
+        <target>ব্যক্তিগত ব্রাউজার হিসাবে এটিকে ব্যবহার করুন:</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.rowHelp">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="About.safariBullet1">
         <source>Block trackers for improved privacy</source>
-        <target>গোপনীয়তাকে আরো উন্নত করতে ট্রাকারদেরকে অবরুদ্ধ করুন</target>
+        <target>গোপনীয়তাকে আরও উন্নত করতে ট্রাকারদেরকে অবরুদ্ধ করুন</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBullet2">
         <source>Block Web fonts to reduce page size</source>
-        <target>পাতা আকার হ্রাস করতে ওয়েব ফন্টকে অবরুদ্ধ করুন</target>
+        <target>পাতা আকার হ্রাস করতে ওয়েব অক্ষরকে অবরুদ্ধ করুন</target>
         <note>Label on About screen</note>
       </trans-unit>
       <trans-unit id="About.safariBulletHeader">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="FirstRun.buttonLabel">
         <source>OK, GOT IT!</source>
-        <target>ঠিক আছে, বুঝেছি!</target>
+        <target>ঠিক অাছে, পেয়েছি!</target>
         <note>Label on button to dismiss first run UI</note>
       </trans-unit>
       <trans-unit id="FirstRun.messageLabelDescription">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="Open.More">
         <source>More</source>
-        <target>আরো</target>
+        <target>আরও</target>
         <note>Label in share alert to open the full system share menu</note>
       </trans-unit>
       <trans-unit id="Open.Safari">
@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="Settings.blockOtherMessage">
         <source>Blocking other content trackers may break some videos and Web pages.</source>
-        <target>অন্যান্য কন্টেন্ট ট্রাকারদেরকে অবরুদ্ধ করা হলে কিছু ভিডিও এবং ওয়েব পেজে সমস্যা হতে পারে।</target>
+        <target>অন্যান্য কন্টেন্ট ট্রাকারদেরকে অবরুদ্ধ করা হলে কিছু ভিডিও এবং ওয়েব পাতায় সমস্যা হতে পারে।</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
       <trans-unit id="Settings.blockOtherNo">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="Settings.toggleBlockFonts">
         <source>Block Web fonts</source>
-        <target>ওয়েব ফন্ট অবরুদ্ধ করুন</target>
+        <target>ওয়েব অক্ষর অবরুদ্ধ করুন</target>
         <note>Label for toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockOther">
